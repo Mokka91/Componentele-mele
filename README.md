@@ -1,2 +1,1 @@
-# Componentele-mele
-Header / Footer / Buttons / more
+Just a simple footer!
